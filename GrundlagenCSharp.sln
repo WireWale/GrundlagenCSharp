@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1HelloWorld", "1HelloWorld\1HelloWorld.csproj", "{D89AA691-3DB3-4F35-915D-0A7C3C93B9D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2Datentypenkonvertierung", "2Datentypenkonvertierung\2Datentypenkonvertierung.csproj", "{27D042FA-6E2F-4AA7-AA91-01BBAC35EA0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2Datentypenkonvertierung", "2Datentypenkonvertierung\2Datentypenkonvertierung.csproj", "{27D042FA-6E2F-4AA7-AA91-01BBAC35EA0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubblesort", "Buubblesort\Bubblesort.csproj", "{F03FD61D-83B5-4335-8E0E-265AEBDEBE9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{27D042FA-6E2F-4AA7-AA91-01BBAC35EA0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27D042FA-6E2F-4AA7-AA91-01BBAC35EA0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27D042FA-6E2F-4AA7-AA91-01BBAC35EA0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F03FD61D-83B5-4335-8E0E-265AEBDEBE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F03FD61D-83B5-4335-8E0E-265AEBDEBE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F03FD61D-83B5-4335-8E0E-265AEBDEBE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F03FD61D-83B5-4335-8E0E-265AEBDEBE9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
